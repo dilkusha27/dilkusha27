@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Hyun woo Cha,%20Front-End%20Developer&fontSize=90" />
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=HyunwooCha%20Front-End&fontSize=90" />
 </div>
 
 <!--
