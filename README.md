@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=👋Hi,%20I'm%20Hyunwoo%20Cha&fontSize=45&desc=Front-End" />
 </div>
