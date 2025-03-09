@@ -3,7 +3,7 @@
 </div>
 
 ## ✨ Tech Stack ✨
-
+JavaScript
 ## 📚 Studying 📚
      
 ## 🛠 Tools 🛠
