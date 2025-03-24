@@ -1,5 +1,19 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=300&section=header&text=Hi,%20I'm%20Hyunwoo%20Cha&fontColor=ffffff&fontSize=50&fontAlign=50&desc=Front-End%20Developer&descAlignY=65" />
+
+  <!-- 다크모드용 이미지 -->
+  <picture>
+    <source
+      srcset="https://capsule-render.vercel.app/api?type=venom&height=300&section=header&text=Hi,%20I'm%20Hyunwoo%20Cha&fontColor=ffffff&fontSize=50&fontAlign=50&desc=Front-End%20Developer&descAlignY=65"
+      media="(prefers-color-scheme: dark)"
+    />
+
+    <!-- 라이트모드용 이미지 -->
+    <img
+      src="https://capsule-render.vercel.app/api?type=venom&height=300&section=header&text=Hi,%20I'm%20Hyunwoo%20Cha&fontColor=000000&fontSize=50&fontAlign=50&desc=Front-End%20Developer&descAlignY=65"
+      alt="Hi, I'm Hyunwoo Cha"
+    />
+  </picture>
+
 </div>
 
 <div style="text-align: left;">
