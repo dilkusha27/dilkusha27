@@ -143,45 +143,6 @@
   </tr>
 </table>
 
-## 추가 구현 기능
-
-<table>
-  <tr>
-    <td width="33%" valign="top">
-      <h3>📈 데이터 시각화</h3>
-      <p>
-        <img src="https://img.shields.io/badge/Recharts-FF6384?style=flat-square&logo=chartdotjs&logoColor=white" alt="Recharts">
-      </p>
-    </td>
-    <td width="33%" valign="top">
-      <h3>📅 일정 · 캘린더</h3>
-      <p>
-        <img src="https://img.shields.io/badge/FullCalendar-3788D8?style=flat-square&logo=googlecalendar&logoColor=white" alt="FullCalendar">
-      </p>
-    </td>
-    <td width="33%" valign="top">
-      <h3>💳 결제 기능</h3>
-      <p>
-        <img src="https://img.shields.io/badge/TossPayments-0064FF?style=flat-square&logo=googlepay&logoColor=white" alt="TossPayments">
-      </p>
-    </td>
-  </tr>
-</table>
-
-## GitHub
-
-<div align="center">
-  <a href="https://github.com/dilkusha27">
-    <img src="https://img.shields.io/badge/GitHub_Profile-dilkusha27-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile">
-  </a>
-  <a href="https://github.com/dilkusha27?tab=followers">
-    <img src="https://img.shields.io/github/followers/dilkusha27?style=for-the-badge&logo=github&label=Followers&color=181717" alt="GitHub Followers">
-  </a>
-  <a href="https://github.com/dilkusha27?tab=repositories">
-    <img src="https://img.shields.io/badge/Public_Repos-View-24292F?style=for-the-badge&logo=github&logoColor=white" alt="Public Repositories">
-  </a>
-</div>
-
 <div align="center">
   <sub>Live github-readme-stats card is currently unavailable because the public Vercel deployment is paused.</sub>
 </div>
