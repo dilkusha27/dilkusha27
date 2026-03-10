@@ -142,7 +142,3 @@
     </td>
   </tr>
 </table>
-
-<div align="center">
-  <sub>Live github-readme-stats card is currently unavailable because the public Vercel deployment is paused.</sub>
-</div>
