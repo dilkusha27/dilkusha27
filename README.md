@@ -6,7 +6,12 @@
    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=venom&height=300&section=header&text=Hi%2C%20I%27m%20Hyunwoo%20Cha&fontColor=000000&fontSize=50&fontAlign=50&desc=Front-End%20Developer&descAlignY=65">
    <img alt="Hi, I'm Hyunwoo Cha" src="https://capsule-render.vercel.app/api?type=venom&height=300&section=header&text=Hi,%20I'm%20Hyunwoo%20Cha&fontColor=000000&fontSize=50&fontAlign=50&desc=Front-End%20Developer&descAlignY=65">
   </picture>
+</div>
 
+<div align="center">
+  <a href="https://telling-hubcap-d57.notion.site/Typescript-React-Java-SQL-Redis-AWS-GitHub-Actions-30eff45adb0a808f9028ec5b1b58e8ed?pvs=74">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=Notion&logoColor=white" alt="Portfolio" />
+  </a>
 </div>
 
 <div style="text-align: left;">
