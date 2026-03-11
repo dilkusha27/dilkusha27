@@ -23,14 +23,50 @@
 
 <br/>
 
-<div align="center">
+<div align="center" style="display:inline-block; border: 2px solid; border-radius: 8px; padding:4px; animation: border-blink 2s infinite;">
   <a href="https://telling-hubcap-d57.notion.site/Typescript-React-Java-SQL-Redis-AWS-GitHub-Actions-30eff45adb0a808f9028ec5b1b58e8ed?pvs=74">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/View_Portfolio-ffffff?style=for-the-badge&logo=notion&logoColor=black" />
-      <img src="https://img.shields.io/badge/View_Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Portfolio" style="height: 42px;">
+      <!-- Dark Mode Badge -->
+      <source media="(prefers-color-scheme: dark)"
+        srcset="https://img.shields.io/badge/View_Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white">
+      <!-- Light Mode Badge -->
+      <source media="(prefers-color-scheme: light)"
+        srcset="https://img.shields.io/badge/View_Portfolio-ffffff?style=for-the-badge&logo=notion&logoColor=black">
+      <!-- Fallback -->
+      <img src="https://img.shields.io/badge/View_Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Portfolio" style="height:42px;">
     </picture>
   </a>
+
+  <style>
+    /* 라이트/다크 모드 점멸 애니메이션 */
+    @keyframes border-blink {
+      0%, 100% {
+        border-color: #FFFFFF; /* 흰색 */
+      }
+      50% {
+        border-color: #000000; /* 검은색 */
+      }
+    }
+
+    /* 다크 모드에서 반전 */
+    @media (prefers-color-scheme: dark) {
+      div[align="center"] {
+        animation: border-blink-dark 2s infinite;
+      }
+      @keyframes border-blink-dark {
+        0%, 100% {
+          border-color: #000000;
+        }
+        50% {
+          border-color: #FFFFFF;
+        }
+      }
+    }
+  </style>
 </div>
+
+<br/>
+
 <div align="center">
   <a href="https://velog.io/@doggyfoot92/posts">
     <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white" alt="Velog">
