@@ -28,7 +28,6 @@
     <img src="https://img.shields.io/badge/View_Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Portfolio" style="height: 42px;">
   </a>
 </div>
-
 <div align="center">
   <a href="https://velog.io/@doggyfoot92/posts">
     <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white" alt="Velog">
