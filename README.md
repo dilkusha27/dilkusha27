@@ -25,7 +25,24 @@
 
 <div align="center">
   <a href="https://telling-hubcap-d57.notion.site/Typescript-React-Java-SQL-Redis-AWS-GitHub-Actions-30eff45adb0a808f9028ec5b1b58e8ed?pvs=74">
-    <img src="https://img.shields.io/badge/View_Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Portfolio" style="height: 42px;">
+    <picture>
+      <!-- Dark Theme Badge -->
+      <source
+        media="(prefers-color-scheme: dark)"
+        srcset="https://img.shields.io/badge/View_Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white"
+      >
+      <!-- Light Theme Badge -->
+      <source
+        media="(prefers-color-scheme: light)"
+        srcset="https://img.shields.io/badge/View_Portfolio-ffffff?style=for-the-badge&logo=notion&logoColor=black"
+      >
+      <!-- Fallback -->
+      <img
+        src="https://img.shields.io/badge/View_Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white"
+        alt="Portfolio"
+        style="height:42px;"
+      >
+    </picture>
   </a>
 </div>
 <div align="center">
