@@ -36,33 +36,6 @@
       <img src="https://img.shields.io/badge/View_Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Portfolio" style="height:42px;">
     </picture>
   </a>
-
-  <style>
-    /* 라이트/다크 모드 점멸 애니메이션 */
-    @keyframes border-blink {
-      0%, 100% {
-        border-color: #FFFFFF; /* 흰색 */
-      }
-      50% {
-        border-color: #000000; /* 검은색 */
-      }
-    }
-
-    /* 다크 모드에서 반전 */
-    @media (prefers-color-scheme: dark) {
-      div[align="center"] {
-        animation: border-blink-dark 2s infinite;
-      }
-      @keyframes border-blink-dark {
-        0%, 100% {
-          border-color: #000000;
-        }
-        50% {
-          border-color: #FFFFFF;
-        }
-      }
-    }
-  </style>
 </div>
 
 <br/>
